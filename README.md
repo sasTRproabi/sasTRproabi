@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sasTRproabi
-- 👀 I’m interested in coding, I love to write codes and make web pages, games and apps (but I dont have a game or an an app yet :D)
-- 🐍 I’m currently learning Python
+- 👀 I’m interested in coding, I love to write codes and (try to) make games and apps (but I dont have a game or an an app yet :D)
+- 🐍 I’m currently learning Python and C# 
 
 <!---
 sasTRproabi/sasTRproabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
